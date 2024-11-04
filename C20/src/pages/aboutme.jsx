@@ -1,5 +1,5 @@
 import React from 'react';
-import profilePhoto from '../src/assets/me.jpg';
+import profilePhoto from '../assets/images/me.png';
 
 const AboutMe = () => (
   <section>
