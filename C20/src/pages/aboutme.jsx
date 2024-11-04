@@ -1,10 +1,10 @@
 import React from 'react';
-import profilePhoto from '../assets/images/profile.jpg';
+import profilePhoto from '../src/assets/me.jpg';
 
 const AboutMe = () => (
   <section>
     <img src={profilePhoto} alt="Profile" />
-    <p>Short bio about yourself.</p>
+    <p>Placeholder for my Bio</p>
   </section>
 );
 
